@@ -1,0 +1,42 @@
+[
+  {
+    "website": "google",
+    "link": "https://www.google.com"
+  },
+  {
+    "website": "youtube",
+    "link": "https://www.youtube.com"
+  },
+  {
+    "website": "wikipedia",
+    "link": "https://www.wikipedia.org"
+  },
+  {
+    "website": "facebook",
+    "link": "https://www.facebook.com"
+  },
+  {
+    "website": "oneplus",
+    "link": "https://www.oneplus.in"
+  },
+  {
+    "website": "amazon",
+    "link": "https://www.amazon.in"
+  },
+  {
+    "website": "microsoft",
+    "link": "https://www.microsoft.com"
+  },
+  {
+    "website": "spotify",
+    "link": "https://www.spotify.com"
+  },
+  {
+    "website": "w3schools",
+    "link": "https://www.w3schools.com/"
+  },
+  {
+    "website": "indianbank",
+    "link": "https://indianbank.in/#!"
+  }
+]
